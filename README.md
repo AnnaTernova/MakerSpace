@@ -13,7 +13,7 @@ Bootstrap website for downloading a free E-book. This website has a light, busin
 - Testimonials
 - Contact page with Google Map
 
-## Technology:
+## Technology
 HTML<br>
 CSS<br>
 Bootstrap<br>
