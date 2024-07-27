@@ -13,6 +13,12 @@ Bootstrap website for downloading a free E-book. This website has a light, busin
 - Testimonials
 - Contact page with Google Map
 
+  ## Technology:
+HTML<br>
+CSS<br>
+Bootstrap<br>
+SASS<br>
+
 ### Usage
 
 This website is built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). It uses [Font Awesome](https://fontawesome.com/) for icons.
